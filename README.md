@@ -51,13 +51,13 @@ $ispage：是否为页面跳转请求（手机网站支付和电脑网站支付�
 
 
 
-	  更多商城企业源码，尽在 http://www.erdangjiade.com/source
+	  更多商城企业源码，尽在[http://www.erdangjiade.com/source](http://www.erdangjiade.com/source)
 
- 	  更多原创模板，尽在 http://www.erdangjiade.com/templates  
+ 	  更多原创模板，尽在   [http://www.erdangjiade.com/templates](http://www.erdangjiade.com/templates)
 
-          更多网页特效下载：www.erdangjiade.com/js
+        更多网页特效下载：[http://www.erdangjiade.com/js](http://www.erdangjiade.com/js)
 
-	  更多PHP/Mysql：www.erdangjiade.com/php
+	  更多PHP/Mysql：[http://www.erdangjiade.com/php/js](http://www.erdangjiade.com/php)
      
  	  ### 网站开发求职QQ群 368848856
 
