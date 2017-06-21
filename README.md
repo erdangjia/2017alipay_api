@@ -52,7 +52,7 @@ $ispage：是否为页面跳转请求（手机网站支付和电脑网站支付�
 更多PHP/Mysql：[http://www.erdangjiade.com/php/js](http://www.erdangjiade.com/php)
 
      
-### 网站开发求职QQ群 368848856
+### 网站开发QQ群 368848856
 
 
 我们会非常负责的对我们提供的资源认真阅读和检查，
