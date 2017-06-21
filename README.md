@@ -42,10 +42,15 @@ $ispage：是否为页面跳转请求（手机网站支付和电脑网站支付�
 [http://www.erdangjiade.com](http://www.erdangjiade.com)
 
 演示下载也以参考这里：[http://www.erdangjiade.com/php/2744.html](http://www.erdangjiade.com/php/2744.html)
+
 更多商城企业源码，尽在[http://www.erdangjiade.com/source](http://www.erdangjiade.com/source)
+
 更多原创模板，尽在   [http://www.erdangjiade.com/templates](http://www.erdangjiade.com/templates)
+
 更多网页特效下载：[http://www.erdangjiade.com/js](http://www.erdangjiade.com/js)
+
 更多PHP/Mysql：[http://www.erdangjiade.com/php/js](http://www.erdangjiade.com/php)
+
      
 ### 网站开发求职QQ群 368848856
 
